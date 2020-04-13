@@ -29,3 +29,5 @@ build/
 
 ### VS Code ###
 .vscode/
+../.metadata/.plugins/org.eclipse.pde
+../.metadata/.plugins/org.eclipse.pde*
